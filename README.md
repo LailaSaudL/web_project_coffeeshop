@@ -1,2 +1,10 @@
-Nombre del proyecto: Reserva café de especialidad
-Descripción del proyecto: Proyecto que muestra varias posibilidades de una pagina web. Reservas, links para ver videos, contactos por redes, y una introduccion.
+# Reserva Café de Especialidad
+
+## Descripción del Proyecto
+
+Este proyecto presenta distintas funcionalidades para una página web, incluyendo:
+
+- Sistema de reservas
+- Enlaces a videos
+- Contacto mediante redes sociales
+- Sección de introducción

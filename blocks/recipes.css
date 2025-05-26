@@ -7,6 +7,7 @@
   color: #fff;
   display: flex;
   flex-direction: column;
+  margin-bottom: 100px;
 }
 
 .recipes__title {
@@ -58,7 +59,7 @@
   height: 273px;
 }
 
-.recipes__caption {
+.recipes__video-caption {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
